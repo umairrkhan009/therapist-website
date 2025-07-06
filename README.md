@@ -2,6 +2,8 @@
 
 A clean, responsive personal website for a licensed therapist. Built using Next.js 14 App Router and Tailwind CSS, this project includes information about services offered, rates, FAQs, and a contact form.
 
+## 🔗 [Live Demo](https://therapist-website-live.vercel.app)
+
 ## 🛠️ Tech Stack
 
 - Framework: Next.js 14 (App Router)
