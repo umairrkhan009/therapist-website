@@ -34,12 +34,14 @@ function Hero() {
             life’s challenges and reconnect with your true self.
           </h2>
 
-          <button
-            style={{ fontSize: "clamp(0.7rem, 1.5vw, 2rem)" }}
-            className="font-freight font-medium mt-7 md:mt-10 lg:mt-15 bg-[#94b0b0] px-3 py-2 md:px-5 md:py-4 rounded-full uppercase hover:opacity-80"
-          >
-            Schedule a consultation
-          </button>
+          <a href="#contact">
+            <button
+              style={{ fontSize: "clamp(0.7rem, 1.5vw, 2rem)" }}
+              className="font-freight font-medium mt-7 md:mt-10 lg:mt-15 bg-[#94b0b0] px-3 py-2 md:px-5 md:py-4 rounded-full uppercase hover:opacity-80"
+            >
+              Schedule a consultation
+            </button>
+          </a>
         </div>
       </div>
     </section>

@@ -28,6 +28,7 @@ function Contact() {
 
   return (
     <section
+      id="contact"
       data-aos="fade-up"
       data-aos-duration="3000"
       className="bg-[#f3f0e8] flex flex-col items-center justify-center text-center pb-8"

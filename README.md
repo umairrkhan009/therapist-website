@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Therapist Portfolio Website
 
-## Getting Started
+A clean, responsive personal website for a licensed therapist. Built using Next.js 14 App Router and Tailwind CSS, this project includes information about services offered, rates, FAQs, and a contact form.
 
-First, run the development server:
+## 🛠️ Tech Stack
+
+- Framework: Next.js 14 (App Router)
+- Styling: Tailwind CSS
+- Animations: AOS (Animate On Scroll)
+- Deployment: Vercel
+
+## 📁 Features
+
+- ✅ Fully responsive layout
+- ✅ Smooth scroll and fade animations
+- ✅ Custom image grid for therapy services
+- ✅ FAQ section with clean dividers
+- ✅ Contact form with inline validation (no backend required)
+- ✅ Custom styled checkbox and inputs
+
+## 🚀 Getting Started
 
 ```bash
+git clone https://github.com/umairrkhan009/therapist-website.git
+cd therapist-website
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🧩 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
 
-## Learn More
+src/
+├── app/
+│   ├── page.jsx
+│   └── layout.jsx
+├── components/
+│   ├── Header.jsx
+│   ├── Services.jsx
+│   ├── FAQ.jsx
+│   ├── Contact.jsx
+│   └── Input.jsx
+public/
+│   ├── images/
+│   └── headshot.jpg
 
-To learn more about Next.js, take a look at the following resources:
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📨 Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feel free to contact me if you have any suggestion/feedback. I would appreciate it [umair-khan](mailto:umairrkhan009@gmail.com).
