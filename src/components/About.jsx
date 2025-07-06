@@ -28,7 +28,7 @@ function About() {
           {/* Text Content */}
           <div className="md:max-w-[20rem] lg:max-w-[25rem]">
             <h1 className="text-2xl hidden md:text-3xl font-bold font-freightDisp mb-6 lg:text-4xl md:block">
-              About Dr. Jennifer Hahm
+              About Dr. Serena Blake
             </h1>
             <p className=" font-freight font-normal text-lg md:text-xl ">
               Dr. Serena Blake is a licensed clinical psychologist (PsyD) based

@@ -4,6 +4,8 @@ A clean, responsive personal website for a licensed therapist. Built using Next.
 
 ## 🔗 [Live Demo](https://therapist-website-live.vercel.app)
 
+## 📹 [Watch Demo Video](https://drive.google.com/file/d/1Qx93GCwCC2SnodgSfgYhRRlpOm550jS5/view?usp=drive_link)
+
 ## 🛠️ Tech Stack
 
 - Framework: Next.js 14 (App Router)
