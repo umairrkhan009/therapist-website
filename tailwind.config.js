@@ -11,6 +11,10 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        freight: ["Freight Sans Pro", "sans-serif"],
+        freightDisp: ["Freight Display Pro", "sans-serif"],
+      },
     },
   },
   plugins: [],
