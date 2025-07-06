@@ -38,8 +38,10 @@ function Contact() {
           Get in Touch
         </h1>
         <p className="font-freight font-light md:text-lg">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum,
-          totam?
+          Whether you&apos;re ready to begin therapy or simply have a few
+          questions, I&apos;m here to help. Reach out anytime — your journey
+          toward healing and clarity can start with a single message. All
+          inquiries are confidential, and I’ll respond as soon as possible.
         </p>
 
         <form
